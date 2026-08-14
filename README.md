@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshraj2077/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adarshraj2077/Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshraj2077/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshraj2077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarshraj2077/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshraj2077/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adarshraj2077/Leetcode/tree/master/0049-group-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarshraj2077/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -35,5 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adarshraj2077/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adarshraj2077/Leetcode/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/adarshraj2077/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
