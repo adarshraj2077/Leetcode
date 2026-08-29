@@ -6,6 +6,6 @@ class Solution:
             return False
 
         if n%3 == 0:
-            return self.isPowerOfThree(n/3)
+            return self.isPowerOfThree(n//3)
         else:
             return False
