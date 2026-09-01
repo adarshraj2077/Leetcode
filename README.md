@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adarshraj2077/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshraj2077/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/adarshraj2077/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshraj2077/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/adarshraj2077/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/adarshraj2077/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshraj2077/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/adarshraj2077/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshraj2077/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/adarshraj2077/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarshraj2077/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/adarshraj2077/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/adarshraj2077/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/adarshraj2077/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/adarshraj2077/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adarshraj2077/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/adarshraj2077/Leetcode/tree/master/0509-fibonacci-number) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adarshraj2077/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/adarshraj2077/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshraj2077/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/adarshraj2077/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adarshraj2077/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/adarshraj2077/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
@@ -150,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adarshraj2077/Leetcode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
