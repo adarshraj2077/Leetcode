@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adarshraj2077/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshraj2077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/adarshraj2077/Leetcode/tree/master/0739-daily-temperatures) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarshraj2077/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/adarshraj2077/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/adarshraj2077/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/adarshraj2077/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Memoization
 |  |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/adarshraj2077/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
