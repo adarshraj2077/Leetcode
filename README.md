@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/adarshraj2077/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/adarshraj2077/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshraj2077/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshraj2077/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/adarshraj2077/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshraj2077/Leetcode/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adarshraj2077/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/adarshraj2077/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/adarshraj2077/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshraj2077/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/adarshraj2077/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/adarshraj2077/Leetcode/tree/master/0326-power-of-three) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshraj2077/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshraj2077/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adarshraj2077/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/adarshraj2077/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/adarshraj2077/Leetcode/tree/master/0234-palindrome-linked-list) |
