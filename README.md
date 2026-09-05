@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/adarshraj2077/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/adarshraj2077/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adarshraj2077/Leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/adarshraj2077/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adarshraj2077/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adarshraj2077/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adarshraj2077/Leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/adarshraj2077/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/adarshraj2077/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Memoization
 |  |
 | ------- |
@@ -185,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
