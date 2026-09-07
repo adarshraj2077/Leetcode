@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adarshraj2077/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adarshraj2077/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adarshraj2077/Leetcode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/adarshraj2077/Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/adarshraj2077/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adarshraj2077/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/adarshraj2077/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/adarshraj2077/Leetcode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/adarshraj2077/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -203,6 +205,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/adarshraj2077/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/adarshraj2077/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/adarshraj2077/Leetcode/tree/master/0853-car-fleet) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/adarshraj2077/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
