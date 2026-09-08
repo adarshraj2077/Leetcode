@@ -1,0 +1,17 @@
+class Solution:
+    def timeRequiredToBuy(self, tickets: List[int], k: int) -> int:
+        time = 0
+        while tickets[k] != 0:
+            for i in range(len(tickets)):
+                if tickets[k] == 0:
+                    break
+                elif tickets[i] != 0 and i != k:
+                    tickets[i] -= 1
+                    time += 1
+                elif i == k:
+                    tickets[k] -= 1
+                    time += 1
+                else:
+                    pass
+
+        return time
