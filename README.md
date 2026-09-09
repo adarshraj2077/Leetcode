@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adarshraj2077/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/adarshraj2077/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/adarshraj2077/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/adarshraj2077/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshraj2077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adarshraj2077/Leetcode/tree/master/0735-asteroid-collision) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adarshraj2077/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/adarshraj2077/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/adarshraj2077/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarshraj2077/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/adarshraj2077/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/adarshraj2077/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/adarshraj2077/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/adarshraj2077/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adarshraj2077/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adarshraj2077/Leetcode/tree/master/0739-daily-temperatures) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/adarshraj2077/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/adarshraj2077/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/adarshraj2077/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/adarshraj2077/Leetcode/tree/master/0853-car-fleet) |
 ## Greedy
