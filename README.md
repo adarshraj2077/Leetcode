@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/adarshraj2077/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshraj2077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/adarshraj2077/Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/adarshraj2077/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/adarshraj2077/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adarshraj2077/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/adarshraj2077/Leetcode/tree/master/0853-car-fleet) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/adarshraj2077/Leetcode/tree/master/0704-binary-search) |
 ## Bracket Sequences
 |  |
 | ------- |
