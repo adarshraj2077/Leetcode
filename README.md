@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshraj2077/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adarshraj2077/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshraj2077/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/adarshraj2077/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/adarshraj2077/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshraj2077/Leetcode/tree/master/0283-move-zeroes) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adarshraj2077/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/adarshraj2077/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshraj2077/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/adarshraj2077/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshraj2077/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adarshraj2077/Leetcode/tree/master/0704-binary-search) |
