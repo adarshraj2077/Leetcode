@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/adarshraj2077/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshraj2077/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarshraj2077/Leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/adarshraj2077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/adarshraj2077/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshraj2077/Leetcode/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adarshraj2077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshraj2077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarshraj2077/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adarshraj2077/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshraj2077/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarshraj2077/Leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/adarshraj2077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshraj2077/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adarshraj2077/Leetcode/tree/master/0704-binary-search) |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adarshraj2077/Leetcode/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adarshraj2077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
