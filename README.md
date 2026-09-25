@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adarshraj2077/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshraj2077/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/adarshraj2077/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adarshraj2077/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/adarshraj2077/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarshraj2077/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshraj2077/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adarshraj2077/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adarshraj2077/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshraj2077/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshraj2077/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarshraj2077/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adarshraj2077/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adarshraj2077/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/adarshraj2077/Leetcode/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adarshraj2077/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/adarshraj2077/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adarshraj2077/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
