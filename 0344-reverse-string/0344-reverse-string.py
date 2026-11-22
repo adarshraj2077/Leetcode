@@ -3,14 +3,11 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        if j == None:
-            j = len(s)-1
-        if i >= j:
-            return
-        
-        s[i],s[j] = s[j],s[i]
+        i = 0
+        j = len(s)-1
 
-        i += 1
-        j -= 1
-
-        self.reverseString(s,i,j)
+        while i<j:
+            s[i],s[j] = s[j],s[i]
+            i += 1
+            j -= 1
+            
